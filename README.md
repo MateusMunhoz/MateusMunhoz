@@ -27,11 +27,17 @@ Ferramenta semiautomática de captura de tela que organiza screenshots por mapa 
 **[portfolioOnline](https://github.com/MateusMunhoz/portfolioOnline)** · HTML, CSS, JavaScript
 Meu portfólio web responsivo, com animações em JavaScript, apresentando meus projetos.
 
-## Formação e estudos
+## GitHub Summary Cards
 
-- Bacharelado em Ciência da Computação, PUC-SP
-- Base em algoritmos, grafos, POO, sistemas operacionais, arquitetura de computadores, redes e compiladores
-- Treino de algoritmos e estruturas de dados no LeetCode
+![](./profile-summary-card-output/dracula/0-profile-details.svg)
+
+![](./profile-summary-card-output/dracula/2-most-commit-language.svg)
+![](./profile-summary-card-output/dracula/1-repos-per-language.svg)
+
+![](./profile-summary-card-output/dracula/3-stats.svg)
+![](./profile-summary-card-output/dracula/4-productive-time.svg)
+
+
 
 ## Contato
 
