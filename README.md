@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&color=FF79C6&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Mateus+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+PUC-SP;Buscando+est%C3%A1gio+em+desenvolvimento" alt="Oi, eu sou o Mateus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&color=BD93F9&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Mateus+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+PUC-SP;Buscando+est%C3%A1gio+em+desenvolvimento" alt="Oi, eu sou o Mateus" />
 </p>
 
 <p align="center">
